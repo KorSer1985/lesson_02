@@ -18,4 +18,4 @@ while True:
         user_list.insert(0, num)
     else:
         user_list.append(num)
-    print(f"The list at the moment: {user_list}")
+    print(f'The list at the moment: {user_list}')
